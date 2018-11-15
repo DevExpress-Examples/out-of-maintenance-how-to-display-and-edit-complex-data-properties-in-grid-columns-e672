@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Address.cs](./CS/Address.cs) (VB: [Address.vb](./VB/Address.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Person.cs](./CS/Person.cs) (VB: [Persons.vb](./VB/Persons.vb))
+* [Persons.cs](./CS/Persons.cs) (VB: [Persons.vb](./VB/Persons.vb))
+* [PropertyDescriptor.cs](./CS/PropertyDescriptor.cs) (VB: [PropertyDescriptor.vb](./VB/PropertyDescriptor.vb))
+<!-- default file list end -->
 # How to display and edit complex data properties in grid columns
 
 
